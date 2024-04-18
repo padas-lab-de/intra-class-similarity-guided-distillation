@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/transformers
+torch==2.0.0
+tqdm==4.62.3
+scikit-learn
