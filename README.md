@@ -74,7 +74,7 @@ python run_glue_with_distillation.py \
   --num_hidden_layers 6 \
   --nearest_neighbors 3 \
   --temperature 5.0 \
-  --strategy skip
+
 
 ```
 
